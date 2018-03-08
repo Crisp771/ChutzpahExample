@@ -1,0 +1,13 @@
+{
+  "name": "chutzpahexample",
+  "description": "Example unit test project",
+  "readme": "readme.txt",
+  "license": "GNU",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "^1.6.9"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
